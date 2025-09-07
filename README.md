@@ -1,4 +1,4 @@
-# HMM Part-of-Speech Tagger ✍️
+# WordWizard – POS Tagging System ✍️
 
 A Python implementation of a **Hidden Markov Model (HMM)** for **Part-of-Speech (POS) Tagging**, trained on labeled text data and evaluated on unseen sentences using the **Viterbi algorithm**.    
 
